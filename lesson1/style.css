@@ -1,0 +1,21 @@
+li{
+    background: cornflowerblue;
+    color: black;
+    font-size: 20px;
+    width: 200px;
+    border-radius: 20px;
+}
+p{
+    background: lightskyblue;
+    color: green;
+    font-size: 20px;
+    width: 500px;
+    border-radius: 10px;
+}
+h2,h1{
+    background: mediumpurple;
+    color: black;
+    font-size: 20px;
+    width: 300px;
+    border-radius: 20px;
+}
