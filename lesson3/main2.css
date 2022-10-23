@@ -42,7 +42,8 @@
     justify-content: space-around;
     align-items: center;
     position: relative;
-    transform: translate(490px,350px);
+    transform: translate(490px,350px)
+
 }
 
 .footer{
